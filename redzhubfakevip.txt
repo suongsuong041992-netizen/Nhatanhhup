@@ -3739,7 +3739,7 @@ end
 local vu32 = loadstring(game:HttpGet("https://raw.githubusercontent.com/PlockScripts/Library-ui/refs/heads/main/redz-V5-remake/main.luau"))()
 local v466 = vu32:MakeWindow({
     Title = "nhatanhhup",
-    SubTitle = "blox kid",
+    SubTitle = "blox kidZUYA-XEBN-ETB0-J3MB-8UN7",
     SaveFolder = "Redz | redz lib v5.lua"
 })
 
